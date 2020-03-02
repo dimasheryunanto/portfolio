@@ -54,7 +54,7 @@ export default
         social: [
             
             {   name:'Github',
-                url:'https://github.com/Dimas-0222'},
+                url:'https://github.com/dimasheryunanto'},
             {
                 name: 'Instagram',
                 url: 'https://www.instagram.com/dimasheryu/'
