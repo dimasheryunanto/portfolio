@@ -21,7 +21,7 @@ class Contact extends Component {
         </div>
         </Fade>
 
-            <span className='footer'>Thanks For Your Attention</span>
+            <span className='footer'>Thanks For Your Attention. Have a good day</span>
         </div>);
     }
 }
