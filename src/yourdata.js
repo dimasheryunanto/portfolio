@@ -30,7 +30,7 @@ export default
             {
                 id: 2,
                 title: 'Award',
-                service: 'Lomba Debat',
+                service: 'Debate Competition',
                 imageSrc: "https://files.fm/thumb_show.php?i=3czqusww",
                 
             },
@@ -43,7 +43,7 @@ export default
             },
             {
                 id: 4,
-                title: 'Activities',
+                title: 'Activity',
                 service: '',
                 imageSrc: "https://files.fm/thumb_show.php?i=zn7uvzrp",
                 
@@ -54,7 +54,7 @@ export default
         social: [
             
             {   name:'Github',
-                url:'https://github.com/Dimas-0222'},
+                url:'https://github.com/dimasheryunanto'},
             {
                 name: 'Instagram',
                 url: 'https://www.instagram.com/dimasheryu/'
