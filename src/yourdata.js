@@ -1,23 +1,22 @@
 export default
     {
-        //(Please Do Not Remove The comma(,) after every variable)
-        //Change The Website Template
+        
         name :'Dimas',
-        headerTagline: [//Line 1 For Header
+        headerTagline: [
                         'Halo 👋 nama saya Dimas Heryunanto',
-                        //Line 2 For Header
+                        
                         'Seorang pelajar, Organization Leader, dan Calm Headed Debater ',
-                        //Line 3 For Header
+                        
                         'Dari SMAN 6 Tangsel'
     ],
-        //Contact Email
+        
         contactEmail:'dimasheryunanto22@gmail.com',
-        // Add Your About Text Here
+        
         abouttext: "Sebagai seorang pemimpin, saya memiliki kemampuan untuk mempengaruhi orang lain dan memecahkan permasalahan melalui berbagai sudut pandang untuk mencapai target yang telah ditentukan. Sebagai seorang pendebat, saya memiliki cara berpikir menggunakan penalaran berdasarkan data yang tersedia untuk mencari kebenaran faktual, keuntungan dan tingkat kepentingan serta kemampuan menyampaikan informasi kepada publik secara jelas dan menarik.",
         aboutImage:'https://files.fm/thumb_show.php?i=5gyybn6s',
-       //Change This To Hide The Image of About Section (True Or False)
-       ShowAboutImage:true,//true or false (Change Here)
-       // Change Projects Here 
+       
+       ShowAboutImage:true,
+        
        projects:[
            {
             id: 1,
@@ -55,7 +54,7 @@ export default
         social: [
             
             {   name:'Github',
-                url:'https://github.com/Dimas-2002'},
+                url:'https://github.com/dimasheryunanto'},
             {
                 name: 'Instagram',
                 url: 'https://www.instagram.com/dimasheryu/'
