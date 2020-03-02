@@ -20,50 +20,40 @@ export default
        // Change Projects Here 
        projects:[
            {
-            id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:'Skill and Personal Abilities', //Project Title - Add Your Project Title Here
-             service:' ', // Add Your Service Type Here
-            //Project Image - Add Your Project Image Here
+            id: 1,
+            title:'Skill and Personal Abilities', 
+             service:' ', 
+            
              imageSrc:"https://files.fm/thumb_show.php?i=a7ysgkd2",
-             //Project URL - Add Your Project Url Here
-             url:'http://chetanverma.com/'
+             
+             
             },
             {
-                id: 2,//DO NOT CHANGE THIS (Please)😅
+                id: 2,
                 title: 'Award',
                 service: 'Lomba Debat',
                 imageSrc: "https://files.fm/thumb_show.php?i=3czqusww",
-                url: ''
+                
             },
             { 
-                id: 3,//DO NOT CHANGE THIS (Please)😅
+                id: 3,
                 title: 'Organization',
                 service: 'Osis, Rohis, dan Marawis',
                 imageSrc: "https://files.fm/thumb_show.php?i=9zgb6k7d",
-                url: ''
+                
             },
             {
-                id: 4,//DO NOT CHANGE THIS (Please)😅
+                id: 4,
                 title: 'Activities',
                 service: '',
                 imageSrc: "https://files.fm/thumb_show.php?i=zn7uvzrp",
-                url: ''
+                
            }
 
-                    /*
-
-                    If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-                ,{
-                id: 5,
-                title: 'Project Five',
-                service: 'Something Amazing',
-                imageSrc: "",
-                url: ''
-            }
-                */
+                    
         ],
         social: [
-            // Add Or Remove The Link Accordingly
+            
             {   name:'Github',
                 url:'https://github.com/Dimas-2002'},
             {
